@@ -1,0 +1,21 @@
+.bg-color {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+input {
+  padding: 10px;
+  font-size: 16px;
+}
+/* ==bg-img== */
+#image {
+  background-position: center;
+  background-size: cover;
+  min-height: 100vh;
+}
+
+.upload-btn {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
